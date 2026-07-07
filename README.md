@@ -79,9 +79,3 @@ Built solo using an AI pair-programming workflow with hard guardrails rather tha
 ## Demo Video
 
 https://github.com/user-attachments/assets/83cb0186-602c-4250-bef7-323bda4b7053
-
-## About the build
-
-Built by [Muhammad Hasnain] — Mathematics & Economics undergraduate, Karachi. Solo-built end to end: schema design, deterministic engine logic, regression testing, and the AI-assisted development workflow itself.
-
-[https://www.linkedin.com/in/mhasnainr/] · [mhasnainr.415@gmail.com]
